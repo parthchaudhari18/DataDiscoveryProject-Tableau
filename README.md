@@ -1,17 +1,14 @@
----
-
 # Data Discovery Project: Regional and Socioeconomic Analysis of Cancer Trends
 
 ## Overview
 
-This project, conducted in collaboration with Rochester Regional Health (RRH), analyzes cancer incidence and mortality across the United States, with a specific focus on New York State. By leveraging data visualization and statistical analysis, the study uncovers key trends and actionable insights to support RRH in strategic planning and healthcare interventions. 
+This project, conducted in collaboration with Rochester Regional Health (RRH), analyzes cancer incidence and mortality across the United States, with a specific focus on New York State. By leveraging data visualization and statistical analysis, the study uncovers key trends and actionable insights to support RRH in strategic planning and healthcare interventions.
 
 Key objectives include:
 - Identifying high-risk regions.
 - Examining socioeconomic factors influencing cancer outcomes.
 - Providing recommendations to enhance cancer care and community health initiatives.
 
----
 
 ## Methodology
 
